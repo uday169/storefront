@@ -1,1 +1,1 @@
-# storefront - Django learning project from _mosh hamedani_ lectures
+# Storefront - Django learning project
